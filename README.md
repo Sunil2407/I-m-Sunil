@@ -3,7 +3,8 @@
 
 # I-m-Sunil🙋🏻‍♂️
 
-***** ➿ Pre-final year student
-***** 🔰 I'm currently working on Javascript
-***** 🔭 I feel delighted to learn Front-end-dev
-***** 😄 Pronouns:He/him
+* 😄 Pronouns:He/him
+*➿ Pre-final year student
+*🔰 I'm currently working on Javascript
+* 🔭 I feel delighted to learn Front-end-dev
+
