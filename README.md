@@ -1,8 +1,9 @@
-HI THERE.....![image](https://user-images.githubusercontent.com/52208411/123115790-ff960180-d45d-11eb-8cb1-df2e79159454.png)
+**HI THERE****.....**![image](https://user-images.githubusercontent.com/52208411/123121817-1c810380-d463-11eb-8964-5b34ffc2d9c1.png)
 
-# I-m-Sunil
 
-* ➿ Pre-final year student
-* 🔰 I'm currently working on Javascript
-* 🔭 I'm curious in learning Front-end-dev
-* 😄 Pronouns:He/him
+# I-m-Sunil🙋🏻‍♂️
+
+***** ➿ Pre-final year student
+***** 🔰 I'm currently working on Javascript
+***** 🔭 I feel delighted to learn Front-end-dev
+***** 😄 Pronouns:He/him
