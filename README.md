@@ -4,7 +4,7 @@
 # I-m-Sunil🙋🏻‍♂️
 
  😄 Pronouns:He/him
- ➿ Pre-final year student
- 🔰 I'm currently working on Javascript
- 🔭 I feel delighted to learn Front-end-dev
+ ➿ Working Professional
+ 🔰 Aspiring Data Scientist
+ 🔭 Sculpting projects to get reach my goal
 
